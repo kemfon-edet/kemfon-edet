@@ -2,9 +2,9 @@
 
 ### Cybersecurity Analyst | SOC & Blue Team
 
-I'm a Cybersecurity graduate focused on security operations, threat detection and incident investigation.
+I'm a Cybersecurity Analyst focused on security operations, log analysis and incident investigation.
 
-I'm strengthening my practical skills through hands-on projects and labs, documenting how I configure systems, investigate issues and solve problems.
+I document how I configure systems, investigate activity and interpret evidence. Each project includes my methods, findings, limitations and lessons learned.
 
 ## Areas of Focus
 
