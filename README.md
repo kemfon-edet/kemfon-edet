@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Kemfon Edet 👋
 
-<!--
-**kemfon-edet/kemfon-edet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Analyst | SOC & Blue Team
 
-Here are some ideas to get you started:
+I'm a Cybersecurity graduate focused on security operations, threat detection and incident investigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm strengthening my practical skills through hands-on projects and labs, documenting how I configure systems, investigate issues and solve problems.
+
+## Areas of Focus
+
+- Security operations and cybersecurity analysis.
+- Threat detection and incident investigation.
+- Phishing email analysis and security awareness.
+- Log analysis and monitoring.
+- Linux, networking and cloud security fundamentals.
+
+I'm also preparing for CompTIA CySA+.
+
+## Featured Project
+
+### PrestaShop Deployment on AWS
+
+Deployed a working demo store on an Ubuntu EC2 instance with a separate private Amazon RDS MySQL database.
+
+This project involved Linux administration, web server configuration, network access controls, database permissions and troubleshooting.
+
+The documentation includes deployment steps, screenshots, security considerations, lessons learned and areas for improvement.
+
+[Explore the project](https://github.com/kemfon-edet/aws-prestashop-deployment)
+
+## My Portfolio
+
+I use this GitHub to share practical projects, document my learning and demonstrate my developing technical skills.
+
+My next projects will focus on analysing suspicious emails, reviewing security logs and documenting investigations.
+
+## Open to Opportunities
+
+I'm open to cybersecurity roles, internships and trainee positions, particularly in security analysis, SOC operations and blue team work.
+
+I welcome remote, hybrid and on-site opportunities where I can contribute, take on practical challenges, learn from others and grow professionally.
